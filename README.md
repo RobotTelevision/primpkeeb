@@ -13,5 +13,7 @@ optional rotory encoders used: https://a.co/d/5GsVWQX
 
 Attached with M2 socket screws, because they look cool: https://a.co/d/dzBV0LV
 
+to mount the pico you'll need standoff's like these: https://a.co/d/8AK0gV6 (i think i used the 3mm ones)
+
 oh and you'll need some diodes: https://a.co/d/9ah8RBM
 
