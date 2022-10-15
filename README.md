@@ -6,6 +6,9 @@ Pico software writen in circuit python
 ![keeb](https://user-images.githubusercontent.com/115851996/195963726-2d6bc9e8-72da-4518-aea8-36c4a724f366.jpg)
 I made this keyboard, you can make one too.
 
+Here is the Tinkercad source so you can easily modify the design: https://www.tinkercad.com/things/aghXsbsp0NS?sharecode=mO9z2KgYBp0ofla-hJ8e-j6PT9Jy5sDPr6z4HIgJ69o
+
+If your not changing anything, stl's are in the STL folder.
 
 Works with any MX sized switches. I used Kailh Choc switches and they fit fine.
 
