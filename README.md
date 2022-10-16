@@ -20,3 +20,6 @@ to mount the pico you'll need standoff's like these: https://a.co/d/8AK0gV6 (i t
 
 oh and you'll need some diodes: https://a.co/d/9ah8RBM
 
+pick a layout, connect it together and solder up the keyboard matrix to the pico gpio.
+
+Then bolt the whole thing to wood or polycarbonate or whatever.
